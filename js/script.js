@@ -3,19 +3,19 @@ const work = [
     "title": "Paris 2024 Olympics Planner",
     "deployed_version": "https://sally077.github.io/Paris-Olympics/",
     "github_repo": "https://github.com/Sally077/Paris-Olympics",
-    "screenshot": "./images/Paris.jpeg"
+    "screenshot": "https://github.com/parsa-hemmati/Bootstrap-Portfolio/blob/main/images/Paris.jpeg?"
   },
   {
     "title": "Password Generator",
     "deployed_version": "https://parsa-hemmati.github.io/password-generator/",
     "github_repo": "https://github.com/parsa-hemmati/password-generator",
-    "screenshot": "./images/Password.jpeg"
+    "screenshot": "https://github.com/parsa-hemmati/Bootstrap-Portfolio/blob/main/images/Password.jpeg"
   },
   {
     "title": "Javascript Quizz",
     "deployed_version": "https://parsa-hemmati.github.io/JavaScript-Quiz/",
     "github_repo": "https://github.com/parsa-hemmati/JavaScript-Quiz/",
-    "screenshot": "./images/Quiz.jpeg"
+    "screenshot": "https://github.com/parsa-hemmati/Bootstrap-Portfolio/blob/main/images/Quiz.jpeg"
   }
 ];
 
